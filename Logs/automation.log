@@ -1,0 +1,60 @@
+2023-04-29 22:17:17,671  INFO [main] Cucumber_Final_Framework:26 - ************* Launching Browser *****************
+2023-04-29 22:17:17,679  INFO [main] Cucumber_Final_Framework:34 - ************* Opening URL  *****************
+2023-04-29 22:17:21,747  INFO [main] Cucumber_Final_Framework:42 - ************* Prvding user and password *****************
+2023-04-29 22:17:22,130  INFO [main] Cucumber_Final_Framework:50 - ************* click on login *****************
+2023-04-29 22:17:27,566  INFO [main] Cucumber_Final_Framework:95 - ********* Verifying Dashboad page title after login successful **************
+2023-04-29 22:17:30,588  INFO [main] Cucumber_Final_Framework:102 - ********* Clicking on customer main menu **************
+2023-04-29 22:17:32,676  INFO [main] Cucumber_Final_Framework:109 - ********* Clicking on customer sub menu **************
+2023-04-29 22:17:45,683  INFO [main] Cucumber_Final_Framework:146 - ********* Saving customer details **************
+2023-04-29 22:17:49,901  INFO [main] Cucumber_Final_Framework:82 - ************* cloding browser *****************
+2023-04-29 22:17:52,249  INFO [main] Cucumber_Final_Framework:26 - ************* Launching Browser *****************
+2023-04-29 22:17:52,263  INFO [main] Cucumber_Final_Framework:34 - ************* Opening URL  *****************
+2023-04-29 22:17:54,964  INFO [main] Cucumber_Final_Framework:42 - ************* Prvding user and password *****************
+2023-04-29 22:17:55,312  INFO [main] Cucumber_Final_Framework:50 - ************* click on login *****************
+2023-04-29 22:18:03,982  INFO [main] Cucumber_Final_Framework:65 - ************* Login Passed *****************
+2023-04-29 22:18:03,990  INFO [main] Cucumber_Final_Framework:74 - ************* clciking on logout *****************
+2023-04-29 22:18:09,252  INFO [main] Cucumber_Final_Framework:65 - ************* Login Passed *****************
+2023-04-29 22:18:09,268  INFO [main] Cucumber_Final_Framework:82 - ************* cloding browser *****************
+2023-04-29 22:18:11,343  INFO [main] Cucumber_Final_Framework:26 - ************* Launching Browser *****************
+2023-04-29 22:18:11,343  INFO [main] Cucumber_Final_Framework:34 - ************* Opening URL  *****************
+2023-04-29 22:18:14,786  INFO [main] Cucumber_Final_Framework:42 - ************* Prvding user and password *****************
+2023-04-29 22:18:15,059  INFO [main] Cucumber_Final_Framework:50 - ************* click on login *****************
+2023-04-29 22:18:21,828  INFO [main] Cucumber_Final_Framework:65 - ************* Login Passed *****************
+2023-04-29 22:18:21,845  INFO [main] Cucumber_Final_Framework:74 - ************* clciking on logout *****************
+2023-04-29 22:18:27,191  INFO [main] Cucumber_Final_Framework:65 - ************* Login Passed *****************
+2023-04-29 22:18:27,207  INFO [main] Cucumber_Final_Framework:82 - ************* cloding browser *****************
+2023-04-29 22:18:29,439  INFO [main] Cucumber_Final_Framework:26 - ************* Launching Browser *****************
+2023-04-29 22:18:29,447  INFO [main] Cucumber_Final_Framework:34 - ************* Opening URL  *****************
+2023-04-29 22:18:31,070  INFO [main] Cucumber_Final_Framework:42 - ************* Prvding user and password *****************
+2023-04-29 22:18:31,330  INFO [main] Cucumber_Final_Framework:50 - ************* click on login *****************
+2023-04-29 22:18:32,625  INFO [main] Cucumber_Final_Framework:59 - ************* Login failed *****************
+2023-04-29 22:20:07,641  INFO [main] Cucumber_Final_Framework:26 - ************* Launching Browser *****************
+2023-04-29 22:20:07,645  INFO [main] Cucumber_Final_Framework:34 - ************* Opening URL  *****************
+2023-04-29 22:20:09,516  INFO [main] Cucumber_Final_Framework:42 - ************* Prvding user and password *****************
+2023-04-29 22:20:09,793  INFO [main] Cucumber_Final_Framework:50 - ************* click on login *****************
+2023-04-29 22:20:15,969  INFO [main] Cucumber_Final_Framework:95 - ********* Verifying Dashboad page title after login successful **************
+2023-04-29 22:20:18,997  INFO [main] Cucumber_Final_Framework:102 - ********* Clicking on customer main menu **************
+2023-04-29 22:20:21,092  INFO [main] Cucumber_Final_Framework:109 - ********* Clicking on customer sub menu **************
+2023-04-29 22:20:35,951  INFO [main] Cucumber_Final_Framework:146 - ********* Saving customer details **************
+2023-04-29 22:20:39,823  INFO [main] Cucumber_Final_Framework:82 - ************* cloding browser *****************
+2023-04-29 22:20:41,628  INFO [main] Cucumber_Final_Framework:26 - ************* Launching Browser *****************
+2023-04-29 22:20:41,628  INFO [main] Cucumber_Final_Framework:34 - ************* Opening URL  *****************
+2023-04-29 22:20:43,605  INFO [main] Cucumber_Final_Framework:42 - ************* Prvding user and password *****************
+2023-04-29 22:20:44,028  INFO [main] Cucumber_Final_Framework:50 - ************* click on login *****************
+2023-04-29 22:20:51,790  INFO [main] Cucumber_Final_Framework:65 - ************* Login Passed *****************
+2023-04-29 22:20:51,806  INFO [main] Cucumber_Final_Framework:74 - ************* clciking on logout *****************
+2023-04-29 22:20:57,222  INFO [main] Cucumber_Final_Framework:65 - ************* Login Passed *****************
+2023-04-29 22:20:57,238  INFO [main] Cucumber_Final_Framework:82 - ************* cloding browser *****************
+2023-04-29 22:20:59,068  INFO [main] Cucumber_Final_Framework:26 - ************* Launching Browser *****************
+2023-04-29 22:20:59,068  INFO [main] Cucumber_Final_Framework:34 - ************* Opening URL  *****************
+2023-04-29 22:21:01,272  INFO [main] Cucumber_Final_Framework:42 - ************* Prvding user and password *****************
+2023-04-29 22:21:01,602  INFO [main] Cucumber_Final_Framework:50 - ************* click on login *****************
+2023-04-29 22:21:06,720  INFO [main] Cucumber_Final_Framework:65 - ************* Login Passed *****************
+2023-04-29 22:21:06,728  INFO [main] Cucumber_Final_Framework:74 - ************* clciking on logout *****************
+2023-04-29 22:21:11,311  INFO [main] Cucumber_Final_Framework:65 - ************* Login Passed *****************
+2023-04-29 22:21:11,319  INFO [main] Cucumber_Final_Framework:82 - ************* cloding browser *****************
+2023-04-29 22:21:13,347  INFO [main] Cucumber_Final_Framework:26 - ************* Launching Browser *****************
+2023-04-29 22:21:13,350  INFO [main] Cucumber_Final_Framework:34 - ************* Opening URL  *****************
+2023-04-29 22:21:15,169  INFO [main] Cucumber_Final_Framework:42 - ************* Prvding user and password *****************
+2023-04-29 22:21:15,610  INFO [main] Cucumber_Final_Framework:50 - ************* click on login *****************
+2023-04-29 22:21:17,005  INFO [main] Cucumber_Final_Framework:59 - ************* Login failed *****************
